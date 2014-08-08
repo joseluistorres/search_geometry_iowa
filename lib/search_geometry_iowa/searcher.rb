@@ -11,7 +11,7 @@ class Searcher
   end
 
   def sanitize_str(str)
-    str.to_s.upcase
+    URI.escape str.to_s.upcase
   end
 
   def geo_server_url

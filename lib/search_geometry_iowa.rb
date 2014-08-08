@@ -1,4 +1,5 @@
 require "search_geometry_iowa/version"
+require "search_geometry_iowa/searcher"
 
 module SearchGeometryIowa
   def by_tier_and_range(args)

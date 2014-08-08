@@ -25,7 +25,7 @@ http_interactions:
       Content-Type:
       - text/javascript
       Date:
-      - Fri, 08 Aug 2014 17:21:34 GMT
+      - Fri, 08 Aug 2014 18:01:42 GMT
       Server:
       - Apache-Coyote/1.1
       Content-Length:
@@ -36,5 +36,5 @@ http_interactions:
       encoding: UTF-8
       string: parseResponse({"type":"FeatureCollection","features":[{"type":"Feature","id":"plss.42104","geometry":{"type":"MultiPolygon","coordinates":[[[[-96.31150561080953,42.73501417583397],[-96.29194211482496,42.735011497289676],[-96.29194211482496,42.735011497289676],[-96.29177634216329,42.72123064593823],[-96.29177634216329,42.72123064593823],[-96.31149179582005,42.721129927640824],[-96.31149179582005,42.721129927640824],[-96.31150561080953,42.73501417583397]]]]},"geometry_name":"wkb_geometry","properties":{"area":2474110,"perimeter":6293.415,"township":"T91N","range":"R46W","section":5,"plss":"75","plss_":468,"plss_id":467,"shape_length":6289.52642942885,"shape_area":2471643.57875305}}],"crs":{"type":"EPSG","properties":{"code":"4326"}}})
     http_version: 
-  recorded_at: Fri, 08 Aug 2014 17:21:32 GMT
+  recorded_at: Fri, 08 Aug 2014 18:01:40 GMT
 recorded_with: VCR 2.9.2

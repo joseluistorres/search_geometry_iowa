@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'search_geometry_iowa/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "SearchGeometry_IA"
+  spec.name          = "search_geometry_iowa"
   spec.version       = SearchGeometryIowa::VERSION
   spec.authors       = ["JoseLuis Torres"]
   spec.email         = ["jl@joseluistorres.me"]
