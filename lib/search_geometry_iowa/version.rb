@@ -1,0 +1,3 @@
+module SearchGeometryIowa
+  VERSION = "0.0.1"
+end
